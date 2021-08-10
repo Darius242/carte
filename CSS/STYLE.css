@@ -1,0 +1,96 @@
+body{
+  background: #57837B ;
+}
+.img-p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.nom-profil{
+  text-align: center;
+  position: relative;
+  margin-top: 2.5%;
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: cursive;
+}
+.prof-utilisateur{
+  text-align: center;
+  line-height: 3;
+  font-size: 1.1rem;
+  font-family: sans-serif;
+  font-weight: bold;
+
+}
+.P{
+  position: relative;
+  display: inline-block;
+  left: 500px;
+
+}
+.FO{
+  position: relative;
+  display: inline-block;
+  left: 600px;
+
+
+}
+.FOLL{
+  position: relative;
+  display: inline-block;
+  margin-left: 700PX;
+
+}
+.nombre-posts{
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+.nom-posts {
+  text-align: right;
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: sans-serif;
+
+}
+.nombre-followers{
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: sans-serif;
+
+}
+.nom-followers{
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+  font-family:sans-serif;
+  }
+  .nombre-following{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family:sans-serif;
+  }
+  .nom-following{
+    text-align: right;
+    font-size: 1rem;
+    font-weight: normal;
+    font-family:sans-serif;
+  }
+  .follow{
+    position: relative;
+    margin-left: 600px;
+    margin-right: 100px;
+    margin-top: 60px;
+    padding-left: 10px;
+    font-size: 1.1rem;
+    text-align: center;
+    font-family: cursive;
+    color: #000000;
+    border-radius: 8px;
+    background-color: #88FFF7;
+
+  }
